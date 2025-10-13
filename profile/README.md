@@ -73,27 +73,25 @@ I'm deeply committed to code quality, adhering to OOP principles, SOLID design p
 - Complex queries and stored procedures
 
 **CMS & E-Commerce Platforms**
-- Magento (1.x, 2.x) - Custom module development, performance optimization
-- ModifiedShop
+- Magento (1.x, 2.x) *****
 - Concept Ecosystem - Founder
-- WordPress (Theme & plugin development)
-- Laravel
-- Symfony
-- Yii Framework
-- Zend Framework
+- ModifiedShop *****
+- WordPress ***
+- Laravel ***
+- Symfony **
+- Yii Framework ***
+- Zend Framework ****
 
 **DevOps & System Administration**
 - Unix/Linux system administration
 - Apache, Nginx web servers
 - Docker & containerization
-- Kubernetes
 - CI/CD pipelines
 - Git version control
 - Composer dependency management
 
 **API Development & Integration**
 - RESTful API design and development
-- API authentication (OAuth, JWT, API Keys)
 - Third-party service integrations
 - Payment gateway integrations (PayPal, Stripe, etc.)
 - Shipping provider APIs
@@ -122,7 +120,7 @@ I'm deeply committed to code quality, adhering to OOP principles, SOLID design p
 - Progressive Web Apps (PWA) concepts
 - Frontend performance optimization
 - Browser DevTools
-- Webpack, npm, yarn
+- Webpack, npm, yarn ***
 
 **Soft Skills & Professional Competencies**
 - Problem-solving and analytical thinking

@@ -50,7 +50,7 @@ I'm deeply committed to code quality, adhering to OOP principles, SOLID design p
 
 **Web Development & Programming Languages**
 - PHP (5.x–8.x), PSR compliant (PSR-4, PSR-7, PSR-11, PSR-15)
-- JavaScript (ES6+)
+- JavaScript Legacy
   - jQuery
   - Prototype
   - KnockoutJS
@@ -59,9 +59,9 @@ I'm deeply committed to code quality, adhering to OOP principles, SOLID design p
 - HTML5 & Semantic Markup
 - CSS3, SCSS/SASS, Responsive Design
 - SQL (Complex queries, optimization, indexing)
-- Python
-- TypeScript
-- Node.js
+- Python ***
+- TypeScript **
+- Node.js **
 - C++ (Legacy experience)
 
 **Database Technologies**
@@ -71,7 +71,7 @@ I'm deeply committed to code quality, adhering to OOP principles, SOLID design p
 - NoSQL (MongoDB, Redis)
 - Database design and normalization
 - Performance tuning and optimization
-- Complex queries and stored procedures
+- Complex queries, views, stored procedures
 
 **CMS & E-Commerce Platforms**
 - Magento (1.x, 2.x) *****

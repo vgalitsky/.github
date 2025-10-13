@@ -70,6 +70,12 @@ Familiar with Agile/Scrum methodologies, team collaboration, and full-stack deve
 
 ## Experience
 
+### Full-Stack Developer — Aghawk Dynamics (USA) — https://aghawkdynamics.com
+*Jan 2024 – Jul 2025*  
+- Developed full-stack CRM portal for drone solutions provider serving agriculture, construction, and public safety industries
+- Built customer portal using PHP 8.2, Concept Ecosystem, MySQL, JavaScript, and React
+- Portal: https://www.aghawkdynamics.com/customer-portal-info
+
 ### Freelance Senior Full-Stack E-commerce Developer — NL-tuning (Switzerland) — https://nl-tuning.ch
 *Feb 2023 – Dec 2024*  
 - Migrated legacy ModifiedShop platform from PHP 5 to PHP 7.4

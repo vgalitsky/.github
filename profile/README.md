@@ -15,16 +15,11 @@
 
 ## Intro
 
-I am a highly experienced web developer with a university degree, boasting over 20 years of expertise in web development, particularly in eCommerce.  
-My extensive skill set enables me to deliver high-quality solutions efficiently and responsibly. I adhere to principles of Object-Oriented Programming (OOP) and SOLID design, ensuring maintainable, scalable, and well-documented code.
+Web developer with a university degree and 20+ years of experience in eCommerce development. Specialized in building maintainable, scalable solutions using PHP, JavaScript, HTML, and CSS.
 
-I have a strong background in PHP, JavaScript, HTML, and CSS and I am proficient in a variety of frameworks and CMS.
+Experienced in working with various frameworks, CMS platforms, and databases (MySQL, PostgreSQL, SQLite). Strong focus on code quality, OOP principles, SOLID design patterns, and performance optimization.
 
-I am also experienced in working with databases such as MySQL, PostgreSQL, and SQLite. Building complex queries and optimizing database performance are among my key skills.
-
-I am familiar with Agile/Scrum methodologies.
-
-My key strengths include rapid understanding and learning, a commitment to quality, and a strong sense of responsibility. I am dedicated to creating innovative and effective web solutions that meet and exceed client expectations.
+Familiar with Agile/Scrum methodologies, team collaboration, and full-stack development lifecycle.
 
 ---
 
@@ -35,17 +30,17 @@ My key strengths include rapid understanding and learning, a commitment to quali
 - Design patterns
 
 **Web Development**
-- PHP (5.x, 7.x, 8.x) — PSR compliant
-- SQL
-- JavaScript (ES6+): jQuery, Prototype, KnockoutJS, React (junior)
-- HTML, CSS
-- Python (junior), TypeScript (junior), Node.js (junior)
+- PHP (5.x–8.x), PSR compliant
+- JavaScript (ES6+), jQuery, Prototype, KnockoutJS, React
+- HTML, CSS, SQL
+- Python, TypeScript, Node.js (junior level)
 
 **Databases**
 - MySQL, PostgreSQL, SQLite, noSQL
 
 **CMS & Frameworks**
-- Magento (1.x, 2.x), Concept Ecosystem, ModifiedShop, Laravel, Symfony, Yii, WordPress, Zend Framework
+- Magento (1.x, 2.x), ModifiedShop, Concept Ecosystem
+- Laravel, Symfony, Yii, WordPress, Zend Framework
 
 **Tools & Platforms**
 - Unix, Apache, Nginx, Git, Composer, Docker, Kubernetes, Jira, Confluence
@@ -54,10 +49,9 @@ My key strengths include rapid understanding and learning, a commitment to quali
 - PHPUnit, Pest, Xdebug
 
 **Soft Skills**
-- Problem-solving, attention to detail, project management
-- Agile/Scrum, time management, communication
-- Team collaboration, client interaction, adaptability
-- Critical thinking, creativity
+- Problem-solving, project management, code reviews
+- Agile/Scrum, team collaboration, client communication
+- Attention to detail, adaptability
 
 **Languages**
 - English: B2
@@ -78,58 +72,54 @@ My key strengths include rapid understanding and learning, a commitment to quali
 
 ### Freelance Senior Full-Stack E-commerce Developer — NL-tuning (Switzerland) — https://nl-tuning.ch
 *Feb 2023 – Dec 2024*  
-- ModifiedShop framework; migration from PHP 5 to PHP 7.4  
-- Designed and developed custom framework and components  
-- Implemented PSR interfaces: container, middleware, HTTP message, event dispatcher; plus ORM, CRUD, layout, etc.
+- Migrated legacy ModifiedShop platform from PHP 5 to PHP 7.4
+- Designed and implemented custom framework with PSR-compliant components (container, middleware, HTTP message, event dispatcher, ORM, CRUD, layout)
 
 ### Senior Magento Backend Developer — Emma Sleep (Germany) — https://emma-sleep.de
 *Aug 2021 – Jan 2023*  
-- Magento: design and development of custom modules  
-- Dropshipping and third-party integrations  
-- Performance optimization and code reviews
+- Developed custom Magento modules for e-commerce operations
+- Integrated dropshipping and third-party services
+- Optimized performance and conducted code reviews
 
 ### Senior Magento Developer — Temashop APS (Denmark) — https://temashop.dk
 *Oct 2012 – 2021*  
-- Full-stack Magento development  
-- Custom modules, REST API development, payment gateways, shipping  
-- Dropshipping development, competitor analysis
+- Full-stack Magento development and custom module creation
+- Developed REST APIs, payment gateways, and shipping integrations
+- Implemented dropshipping solutions and conducted competitor analysis
 
 ### Senior Magento Developer — ATO-24 (Germany)
 *Dec 2011 – Mar 2012*  
-- Full-stack Magento development and support  
-- Project management
+- Provided full-stack Magento development and support
+- Managed development projects
 
 ### Team Lead — E-Learning Platform — Ignite (Israel) — https://igniteoutsourcing.com • https://www.kineo.com/
 *May 2010 – Dec 2011*  
-- Custom e-learning framework  
-- Full-stack development (PHP, JS, HTML, CSS)  
-- Team leadership, project management, client communication (Agile/Scrum)  
-- Data analysis, graphs, reports, statistics, learning paths
+- Led team in developing custom e-learning platform (PHP, JS, HTML, CSS)
+- Managed projects using Agile/Scrum methodologies with direct client communication
+- Built data analysis features: graphs, reports, statistics, and learning path systems
 
 ### Magento Developer — ISM Commerce (Netherlands) — http://www.ism-ukraine.com/
 *Jan 2009 – May 2010*  
-- Full-stack Magento development  
-- Custom modules and third-party integrations  
-- Support & maintenance
+- Developed custom Magento modules and third-party integrations
+- Provided ongoing support and maintenance for e-commerce platform
 
 ### Team Lead — TimeMaker CRM (Czech Republic) — https://timemaker.com
 *Mar 2007 – Jan 2009*  
-- Web applications and APIs for CRM system  
-- Microservices development  
-- Project management and code reviews
+- Developed web applications and APIs for CRM system
+- Built microservices architecture
+- Conducted code reviews and managed development projects
 
 ### Co-Owner, C++/Web Developer — PalmOrder (Ukraine) — https://palmorder.com
 *Apr 2004 – Mar 2007*  
-- Trader mobile platform for PalmOS  
-- C++ web apps with XSLT, XML-RPC  
-- Website development (PHP, JS, HTML, CSS)  
-- Custom framework development; project management
+- Developed trader mobile platform for PalmOS
+- Built C++ web applications using XSLT and XML-RPC
+- Created custom PHP framework and managed web development projects
 
 ### Developer — Regional Center for the Accrual and Payment of Pensions and Assistance (Ukraine)
 *Aug 2002 – Apr 2004*  
-- Applications for government infrastructure  
-- C++ / Novell stack: TCP/IP, NetWare, GroupWise, eDirectory  
-- Project management
+- Developed applications for government pension infrastructure
+- Worked with C++ and Novell stack (TCP/IP, NetWare, GroupWise, eDirectory)
+- Managed technical projects
 
 ---
 

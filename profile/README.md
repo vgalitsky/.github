@@ -2,9 +2,7 @@
 
 **Web Developer / Full-Stack (PHP, JavaScript, HTML, CSS)**
 
-[![Concept](https://img.shields.io/badge/Concept-Ecosystem-violet.svg)](https://github.com/Concept-Labs)
-
-[Concept Ecosystem](https://github.com/Concept-Labs) owner
+[![Concept](https://img.shields.io/badge/Concept-Ecosystem-violet.svg)](https://github.com/Concept-Labs) Founder
 
 
 **Email:** [concept.galitsky@gmail.com](mailto:concept.galitsky@gmail.com)  

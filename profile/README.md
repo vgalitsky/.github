@@ -1,4 +1,4 @@
-# Viktor Halytskiy
+# Viktor Halytskiy (_Victor Galitsky_ aka _mtr_)
 
 **Web Developer / Full-Stack (PHP, JavaScript, HTML, CSS) / Magento / Concept Ecosystem / Laravel**
 

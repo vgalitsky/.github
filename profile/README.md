@@ -1,8 +1,8 @@
 # Viktor Halytskiy
 
-**Web Developer / Full-Stack (PHP, JavaScript, HTML, CSS)**
+**Web Developer / Full-Stack (PHP, JavaScript, HTML, CSS) / Magento / Concept Ecosystem / Laravel**
 
-[![Concept](https://img.shields.io/badge/Concept-Ecosystem-violet.svg)](https://github.com/Concept-Labs) Founder
+[![&copy;Concept](https://img.shields.io/badge/Concept-Ecosystem-violet.svg)](https://github.com/Concept-Labs) Founder
 
 
 [![Email](https://img.shields.io/badge/Email-concept.galitsky%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:concept.galitsky@gmail.com)  

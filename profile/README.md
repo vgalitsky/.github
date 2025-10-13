@@ -48,47 +48,47 @@ I'm deeply committed to code quality, adhering to OOP principles, SOLID design p
 - Test-Driven Development (TDD)
 
 **Web Development & Programming Languages**
-- PHP (5.x–8.x) — Expert level, PSR compliant (PSR-4, PSR-7, PSR-11, PSR-15)
-- JavaScript (ES6+) — Advanced level
-  - jQuery — Expert
-  - Prototype — Advanced
-  - KnockoutJS — Advanced
-  - React — Intermediate
-- HTML5 & Semantic Markup — Expert
-- CSS3, SCSS/SASS, Responsive Design — Expert
-- SQL (Complex queries, optimization, indexing) — Advanced
-- Python — Junior level
-- TypeScript — Junior level
-- Node.js — Junior level
+- PHP (5.x–8.x), PSR compliant (PSR-4, PSR-7, PSR-11, PSR-15)
+- JavaScript (ES6+)
+  - jQuery
+  - Prototype
+  - KnockoutJS
+  - React
+- HTML5 & Semantic Markup
+- CSS3, SCSS/SASS, Responsive Design
+- SQL (Complex queries, optimization, indexing)
+- Python
+- TypeScript
+- Node.js
 - C++ (Legacy experience)
 
 **Database Technologies**
-- MySQL — Expert (Query optimization, indexing, replication)
-- PostgreSQL — Advanced
-- SQLite — Advanced
-- NoSQL (MongoDB, Redis) — Intermediate
+- MySQL (Query optimization, indexing, replication)
+- PostgreSQL
+- SQLite
+- NoSQL (MongoDB, Redis)
 - Database design and normalization
 - Performance tuning and optimization
 - Complex queries and stored procedures
 
 **CMS & E-Commerce Platforms**
-- Magento (1.x, 2.x) — Expert (Custom module development, performance optimization)
-- ModifiedShop — Expert
-- Concept Ecosystem — Founder & Expert
-- WordPress — Advanced (Theme & plugin development)
-- Laravel — Advanced
-- Symfony — Advanced
-- Yii Framework — Intermediate
-- Zend Framework — Intermediate
+- Magento (1.x, 2.x) - Custom module development, performance optimization
+- ModifiedShop
+- Concept Ecosystem - Founder
+- WordPress (Theme & plugin development)
+- Laravel
+- Symfony
+- Yii Framework
+- Zend Framework
 
 **DevOps & System Administration**
-- Unix/Linux system administration — Advanced
-- Apache, Nginx web servers — Advanced
-- Docker & containerization — Intermediate
-- Kubernetes — Basic
+- Unix/Linux system administration
+- Apache, Nginx web servers
+- Docker & containerization
+- Kubernetes
 - CI/CD pipelines
-- Git version control — Expert
-- Composer dependency management — Expert
+- Git version control
+- Composer dependency management
 
 **API Development & Integration**
 - RESTful API design and development
@@ -100,18 +100,18 @@ I'm deeply committed to code quality, adhering to OOP principles, SOLID design p
 - XML-RPC, SOAP
 
 **Testing & Quality Assurance**
-- PHPUnit — Advanced
-- Pest PHP — Intermediate
-- Xdebug — Advanced
+- PHPUnit
+- Pest PHP
+- Xdebug
 - Unit testing, Integration testing
 - Code coverage analysis
 - Performance profiling
 
 **Project Management & Collaboration Tools**
-- Jira — Advanced
-- Confluence — Advanced
-- Git (GitHub, GitLab, Bitbucket) — Expert
-- Agile/Scrum methodologies — Advanced
+- Jira
+- Confluence
+- Git (GitHub, GitLab, Bitbucket)
+- Agile/Scrum methodologies
 - Kanban boards
 - Code review processes
 

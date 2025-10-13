@@ -37,21 +37,21 @@ My key strengths include rapid understanding and learning, a commitment to quali
 **Web Development**
 - PHP (5.x, 7.x, 8.x) — PSR compliant
 - SQL
-- JavaScript (ES6+): jQuery, Prototype, KnockoutJS
+- JavaScript (ES6+): jQuery, Prototype, KnockoutJS, React (junior)
 - HTML, CSS
-- Python (junior), TypeScript (junior), Node.js (junior), React (junior)
+- Python (junior), TypeScript (junior), Node.js (junior)
 
 **Databases**
-- MySQL, PostgreSQL, SQLite
+- MySQL, PostgreSQL, SQLite, noSQL
 
 **CMS & Frameworks**
-- Magento (1.x, 2.x), ModifiedShop, Yii, WordPress, Zend Framework
+- Magento (1.x, 2.x), Concept Ecosystem, ModifiedShop, Laravel, Symfony, Yii, WordPress, Zend Framework
 
 **Tools & Platforms**
 - Unix, Apache, Nginx, Git, Composer, Docker, Kubernetes, Jira, Confluence
 
 **Testing & Debugging**
-- PHPUnit, Xdebug
+- PHPUnit, Pest, Xdebug
 
 **Soft Skills**
 - Problem-solving, attention to detail, project management

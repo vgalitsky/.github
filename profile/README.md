@@ -43,7 +43,7 @@ I'm deeply committed to code quality, adhering to OOP principles, SOLID design p
 **Core Development Principles**
 - Object-Oriented Programming (OOP)
 - SOLID, DRY, KISS principles
-- Design patterns (Singleton, Factory, Observer, Strategy, Dependency Injection, etc.)
+- Design patterns
 - Clean Code architecture
 - Domain-Driven Design (DDD) concepts
 - Test-Driven Development (TDD)

@@ -1,7 +1,7 @@
 # Viktor Halytskiy (_Victor Galitsky_)
 aka _mtr_
 
-**Web Developer / Full-Stack (PHP, JavaScript, HTML, CSS) / Magento / Concept Ecosystem / Laravel**
+**Web Developer / Full-Stack (PHP, JavaScript, HTML, CSS) / Magento / Concept Ecosystem / Laravel / SQL / noSQL**
 
 [![&copy;Concept](https://img.shields.io/badge/Concept-Ecosystem-violet.svg)](https://github.com/Concept-Labs) Founder
 

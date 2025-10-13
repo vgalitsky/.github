@@ -55,6 +55,7 @@ I'm deeply committed to code quality, adhering to OOP principles, SOLID design p
   - Prototype
   - KnockoutJS
   - React
+  - Others
 - HTML5 & Semantic Markup
 - CSS3, SCSS/SASS, Responsive Design
 - SQL (Complex queries, optimization, indexing)

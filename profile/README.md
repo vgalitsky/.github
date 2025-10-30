@@ -8,7 +8,7 @@ aka _mtr_
 
 [![Email](https://img.shields.io/badge/Email-concept.galitsky%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:concept.galitsky@gmail.com)  
 [![Telegram](https://img.shields.io/badge/Telegram-%40concept__galitsky-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/concept_galitsky)  
-[![Skype](https://img.shields.io/badge/Skype-v.galitsky-00AFF0?style=flat&logo=skype&logoColor=white)](skype:v.galitsky?chat)  
+[![Teams](https://img.shields.io/badge/Skype-v.galitsky-00AFF0?style=flat&logo=skype&logoColor=white)](skype:v.galitsky?chat)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-victor--galitsky-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-galitsky-5a484748)  
 [![Upwork](https://img.shields.io/badge/Upwork-Profile-6fda44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~012ce12872adb1cb75?mp_source=share)
 

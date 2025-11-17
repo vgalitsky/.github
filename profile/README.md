@@ -19,6 +19,7 @@ aka _mtr_
 **Transforming Business Ideas into Powerful Digital Solutions**
 
 With over two decades of hands-on experience in web development and eCommerce innovation, I bring a unique combination of technical expertise and business understanding to every project. As a university-educated full-stack developer, I've successfully delivered scalable, high-performance solutions for clients across multiple continents—from cutting-edge drone technology platforms in the USA to sophisticated e-commerce systems in Europe.
+Additionally please check https://github.com/Concept-Labs
 
 **What Sets Me Apart:**
 

@@ -1,4 +1,4 @@
-# Viktor Halytskiy (_Victor Galitsky_)
+# [Viktor Halytskiy (_Victor Galitsky_)](https://victorgalitsky.me)
 aka _mtr_
 
 https://victorgalitsky.me
